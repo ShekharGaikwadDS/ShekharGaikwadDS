@@ -6,3 +6,4 @@ I am an AI/ML Enthusiast working on some exciting AI For Social Good Problems
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/shekhar-gaikwad-b71522176/">Linkedin</A>
 - ⚡ Fun fact: There are over 700 different programming languages!
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShekharGaikwadDS)](https://github.com/anuraghazra/github-readme-stats)
+- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
