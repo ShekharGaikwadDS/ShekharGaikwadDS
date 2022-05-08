@@ -1,10 +1,9 @@
-### Hi there 👋
-
+# Hi there 👋 My name is Shekhar gaikwad
 <!--
 **ShekharGaikwadDS/ShekharGaikwadDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+I am a AI/ML Enthusiast working on some exciting AI For Social Good Problems
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
